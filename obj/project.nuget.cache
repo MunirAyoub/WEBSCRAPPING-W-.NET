@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcZwQ3XRVcHqr0m9vX3dfHTA6y/rRCHb9+H+ngNaOW9WmOGv9SScNNMgmw13hMDs5XIjh0uEG6AM1f+zedvUHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\munir\\RiderProjects\\WEBSCRAPPING\\WEBSCRAPPING\\WEBSCRAPPING.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\munir\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}

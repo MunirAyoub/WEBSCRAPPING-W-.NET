@@ -1,0 +1,17 @@
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\bin\Debug\net8.0\WEBSCRAPPING.exe
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\bin\Debug\net8.0\WEBSCRAPPING.deps.json
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\bin\Debug\net8.0\WEBSCRAPPING.runtimeconfig.json
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\bin\Debug\net8.0\WEBSCRAPPING.dll
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\bin\Debug\net8.0\WEBSCRAPPING.pdb
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.csproj.AssemblyReference.cache
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.AssemblyInfoInputs.cache
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.AssemblyInfo.cs
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.csproj.CoreCompileInputs.cache
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAP.E795434B.Up2Date
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.dll
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\refint\WEBSCRAPPING.dll
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.pdb
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\WEBSCRAPPING.genruntimeconfig.cache
+C:\Users\munir\RiderProjects\WEBSCRAPPING\WEBSCRAPPING\obj\Debug\net8.0\ref\WEBSCRAPPING.dll
